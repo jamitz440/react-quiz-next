@@ -1,3 +1,3 @@
 ## Quick little react quiz using the useReducer hook!
 
-if you are wanting to try it out. just clone the repo instal dependencies and run 'npm run serve' before running npm run dev. This will set up the questions json as a 'sever' for the application to work .
+If you are wanting to try it out. just clone the repo instal dependencies and run 'npm run serve' before running npm run dev. This will set up the questions json as a 'sever' for the application to work .
